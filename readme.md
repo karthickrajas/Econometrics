@@ -1,4 +1,4 @@
-# Econometric Models
+# Econometric Models in Python
 
 * Linear Regression
 * Panel Data Models
@@ -16,3 +16,5 @@
 * Instrumental Variables
 * Seemingly Unrelated Regressions
 * Time Series ARIMA Models
+
+Actual R , SAS code from Econometrics Academy
